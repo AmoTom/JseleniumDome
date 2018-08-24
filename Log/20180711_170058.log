@@ -1,0 +1,12 @@
+2018-07-11 17:00:58.632 INFO: Start to select browser name from properties file
+2018-07-11 17:00:58.682 INFO: Your had select test browser type is: Chrome
+2018-07-11 17:00:58.682 INFO: The test server URL is: https://www.jd.com
+2018-07-11 17:01:01.134 INFO: Launching Chrome ...
+2018-07-11 17:01:02.753 INFO: Open URL: https://www.jd.com
+2018-07-11 17:01:02.760 INFO: Wait for 5 seconds.
+2018-07-11 17:01:03.310 INFO: 清空输入框。
+2018-07-11 17:01:03.380 INFO: 输入文本数据:iPhone
+2018-07-11 17:01:03.482 INFO: Element: [[ChromeDriver: chrome on XP (33d2ed92a6591dd15781c6931d3634a0)] -> xpath: //*[@id='search']/div/div[2]/button] was clicked.
+2018-07-11 17:01:07.234 INFO: Element: [[ChromeDriver: chrome on XP (33d2ed92a6591dd15781c6931d3634a0)] -> xpath: //*[@id='J_goodsList']/ul/li[1]/div/div[1]/a/img] was clicked.
+2018-07-11 17:01:08.265 INFO: 当前窗口数量： 2
+2018-07-11 17:01:29.771 INFO: new page title is 

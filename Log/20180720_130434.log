@@ -1,0 +1,6 @@
+2018-07-20 13:04:34.095 INFO: Start to select browser name from properties file
+2018-07-20 13:04:34.096 INFO: Your had select test browser type is: Chrome
+2018-07-20 13:04:34.096 INFO: The test server URL is: https://www.baidu.com
+2018-07-20 13:04:37.956 INFO: Launching Chrome ...
+2018-07-20 13:04:38.601 INFO: Open URL: https://www.baidu.com
+2018-07-20 13:04:38.606 INFO: Wait for 5 seconds.

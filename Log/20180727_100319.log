@@ -1,0 +1,28 @@
+2018-07-27 10:03:19.321 INFO: Start to select browser name from properties file
+2018-07-27 10:03:19.322 INFO: Your had select test browser type is: Chrome
+2018-07-27 10:03:19.323 INFO: The test server URL is: https://www.baidu.com
+2018-07-27 10:03:27.505 INFO: Launching Chrome ...
+2018-07-27 10:03:29.028 INFO: Open URL: https://www.baidu.com
+2018-07-27 10:03:29.039 INFO: Wait for 5 seconds.
+2018-07-27 10:03:34.655 ERROR: no such element: Unable to locate element: {"method":"id","selector":""}
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-CAEQG93', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\Shanzw\AppData\Local\Temp\scoped_dir12424_5941}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=68.0.3440.75, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9948f84bffe7243c5994c1d74358c5a8
+*** Element info: {Using=id, value=}.
+2018-07-27 10:03:39.720 ERROR: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='search']/div/div[2]/button"}
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-CAEQG93', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\Shanzw\AppData\Local\Temp\scoped_dir12424_5941}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=68.0.3440.75, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9948f84bffe7243c5994c1d74358c5a8
+*** Element info: {Using=xpath, value=//*[@id='search']/div/div[2]/button}.

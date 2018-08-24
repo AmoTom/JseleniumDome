@@ -1,0 +1,6 @@
+2018-07-20 11:29:46.731 INFO: Start to select browser name from properties file
+2018-07-20 11:29:46.733 INFO: Your had select test browser type is: Chrome
+2018-07-20 11:29:46.733 INFO: The test server URL is: https://www.jd.com
+2018-07-20 11:29:54.662 INFO: Launching Chrome ...
+2018-07-20 11:29:56.940 INFO: Open URL: https://www.jd.com
+2018-07-20 11:29:56.944 INFO: Wait for 5 seconds.

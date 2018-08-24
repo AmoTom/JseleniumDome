@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-html-runner-3.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-java-3.5.0.zip"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-server-3.5.0.zip"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/commons-io-2.6-src.zip"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/commons-io-2.6-bin.zip"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-server-standalone-3.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-dotnet-3.5.0.zip"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/selenium-dotnet-strongnamed-3.5.0.zip"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/dom4j-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/Files/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/JavaMail/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/selenium3.0-java/selenium3.5.0/SqlJdbc/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

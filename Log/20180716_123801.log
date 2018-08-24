@@ -1,0 +1,71 @@
+2018-07-16 12:38:01.813 INFO: Start to select browser name from properties file
+2018-07-16 12:38:01.815 INFO: Your had select test browser type is: Chrome
+2018-07-16 12:38:01.815 INFO: The test server URL is: https://test1www.longjulicai.com
+2018-07-16 12:38:06.795 INFO: Launching Chrome ...
+2018-07-16 12:38:09.584 INFO: Open URL: https://test1www.longjulicai.com
+2018-07-16 12:38:09.588 INFO: Wait for 5 seconds.
+2018-07-16 12:38:09.680 ERROR: element not visible
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd.
+2018-07-16 12:38:14.689 ERROR: no such element: Unable to locate element: {"method":"xpath","selector":".//ul[@class='clearfix']/a[href = '/User/Login']"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd
+*** Element info: {Using=xpath, value=.//ul[@class='clearfix']/a[href = '/User/Login']}.
+2018-07-16 12:38:19.719 ERROR: no such element: Unable to locate element: {"method":"xpath","selector":".//ul[@class='clearfix']/a[href = '/User/Login']"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd
+*** Element info: {Using=xpath, value=.//ul[@class='clearfix']/a[href = '/User/Login']}.
+2018-07-16 12:38:19.720 INFO: 进入登录页面.............
+2018-07-16 12:38:24.751 ERROR: no such element: Unable to locate element: {"method":"id","selector":"txtLoginName"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd
+*** Element info: {Using=id, value=txtLoginName}.
+2018-07-16 12:38:29.776 ERROR: no such element: Unable to locate element: {"method":"id","selector":"txtLoginName"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd
+*** Element info: {Using=id, value=txtLoginName}.
+2018-07-16 12:38:34.787 ERROR: no such element: Unable to locate element: {"method":"xpath","selector":".//button[@class='sure']"}
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.0', revision: '8def36e068', time: '2017-08-10T23:01:06.401Z'
+System info: host: 'DESKTOP-TIB88CT', ip: '192.168.30.217', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\bjbpc073\AppData\Local\Temp\scoped_dir1404_1906}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 801f68488534953e7dd9f8668dc03bfd
+*** Element info: {Using=xpath, value=.//button[@class='sure']}.

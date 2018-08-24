@@ -1,0 +1,12 @@
+2018-07-16 14:51:06.815 INFO: Start to select browser name from properties file
+2018-07-16 14:51:06.817 INFO: Your had select test browser type is: Chrome
+2018-07-16 14:51:06.817 INFO: The test server URL is: https://www.jd.com
+2018-07-16 14:51:12.497 INFO: Launching Chrome ...
+2018-07-16 14:51:14.408 INFO: Open URL: https://www.jd.com
+2018-07-16 14:51:14.412 INFO: Wait for 5 seconds.
+2018-07-16 14:51:16.137 INFO: 清空输入框。
+2018-07-16 14:51:16.216 INFO: 输入文本数据:iPhone
+2018-07-16 14:51:16.345 INFO: Element: [[ChromeDriver: chrome on XP (4032f7b75bf33a1c61ec78db34d50883)] -> xpath: //*[@id='search']/div/div[2]/button] was clicked.
+2018-07-16 14:51:19.771 INFO: Element: [[ChromeDriver: chrome on XP (4032f7b75bf33a1c61ec78db34d50883)] -> xpath: //*[@id='J_goodsList']/ul/li[1]/div/div[1]/a/img] was clicked.
+2018-07-16 14:51:20.783 INFO: 当前窗口数量： 2
+2018-07-16 14:51:21.874 INFO: new page title is 【AppleiPhone 8 Plus】Apple iPhone 8 Plus 64GB 红色特别版 移动联通电信4G手机【行情 报价 价格 评测】-京东

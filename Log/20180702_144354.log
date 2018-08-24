@@ -1,0 +1,5 @@
+2018-07-02 14:43:54.760 INFO: Start to select browser name from properties file
+2018-07-02 14:43:54.761 INFO: Your had select test browser type is: Firefox
+2018-07-02 14:43:54.761 INFO: The test server URL is: https://www.baidu.com/
+2018-07-02 14:44:00.286 INFO: Launching Firefox ...
+2018-07-02 14:44:01.177 INFO: Open URL: https://www.baidu.com/
